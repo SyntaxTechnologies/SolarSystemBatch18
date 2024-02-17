@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SolarSystemB18" />
+        <module name="SolarSystemBatch18" />
       </profile>
     </annotationProcessing>
   </component>
